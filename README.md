@@ -3,9 +3,7 @@
 **`Binary Beast`**
 
 ## About me 
-I'm teenager from Poland with passion in Programming :computer: and chess.<br> On my profile you can find respositories with my projects.
-
-technical high-school student focused on back-end and full-stack development.
+Technical high-school student focused on back-end and full-stack development.
 
 ---
 
