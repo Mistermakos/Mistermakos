@@ -4,7 +4,7 @@
 
 ## About me 
 Aspiring Software Engineer focused on Backend and Cloud technologies.
-I also am somewhat experienced in Android and React application development.
+I am also somewhat experienced in Android and React application development.
 Interested in scalable systems, software architecture, and modern development practices.
 
 ---
